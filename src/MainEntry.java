@@ -4,4 +4,6 @@ public class MainEntry {
         System.out.println("idea git demo");
     }
 
+    NewClass newClass = new NewClass();
+
 }
